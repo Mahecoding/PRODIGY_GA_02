@@ -1,3 +1,3 @@
 # PRODIGY_GA_02
 
-![alt text](http://url/to/img.png)
+![alt text](IMAGE GENERATION OUTPUT.png)
