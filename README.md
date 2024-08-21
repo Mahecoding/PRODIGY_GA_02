@@ -1,4 +1,4 @@
-###This repository showcases a project that leverages pre-trained generative models like Stable Diffusion to generate images based on text prompts. The project includes a user-friendly interface built with Gradio, enabling seamless interaction with the model. By simply entering a text description, users can generate detailed and creative images, making this project a powerful tool for both artistic exploration and practical applications.
+This repository showcases a project that leverages pre-trained generative models like Stable Diffusion to generate images based on text prompts. The project includes a user-friendly interface built with Gradio, enabling seamless interaction with the model. By simply entering a text description, users can generate detailed and creative images, making this project a powerful tool for both artistic exploration and practical applications.
 
 The repository provides the complete source code, including the integration of the Stable Diffusion model, the function to generate images, and the Gradio interface. The code is organized to be beginner-friendly, with clear explanations and modular design for easy customization.
 
